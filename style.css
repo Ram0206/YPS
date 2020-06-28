@@ -1,0 +1,96 @@
+body{
+    box-sizing: border-box;
+}
+#navbar{
+    background-color: blue;
+    padding: 15px 30px;
+}
+#navbar a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#dropdown-managment a{
+    color: black;
+}
+#dropdown-facilities a{
+    color: black;
+}
+#dropdown-school a{
+    color: black;
+}
+#form a {
+    padding: 0 5px;
+}
+.about{
+    background-image: url('img/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+#vision{
+    background-color: orange;
+}
+#mission{
+    background-color: rgba(8, 8, 185, 0.849);
+}
+.facilities{
+    background-image: url('img/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px 0;
+    height: 30vh;
+}
+
+.contact{
+    background-image: url('img/whatsup.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{
+    background-image: url('img/footer3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.info{
+    background-image: url('img/bg-footer2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.input{
+    font-size: 18px;
+    width: 200px;
+    height: 25px;
+    border: none;
+    margin: 5px;
+    outline: none;
+    color: white;
+    border-bottom: 3px solid lightgreen;
+    background: transparent;
+    text-align: center;
+}
+.student_header{
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+#login{
+    padding: 10px;
+    width: 180px;
+    border-radius: 50px;
+    color: white;
+    background-color: darkolivegreen;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+#login:hover{
+    background-color: darkslategray;
+    cursor: pointer;
+    box-shadow: darkslategray;
+}
+
+/* Form */
+
